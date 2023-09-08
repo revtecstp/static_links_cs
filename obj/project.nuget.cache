@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CqE7CwQHpEe9CfBWs6lMq2otSPggmQ5X8dHn6wyFe29wE4E63y76QYdpRmjY11blEjaXGIvo2FLpvZ+o9jFQbw==",
+  "success": true,
+  "projectFilePath": "/home/fredy/Projects/revtec/WebAPIClient/WebAPIClient.csproj",
+  "expectedPackageFiles": [
+    "/home/fredy/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

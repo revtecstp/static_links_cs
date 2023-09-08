@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Genesys Cloud</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/images/ico/genesys-logo-red-180.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/images/ico/genesys-logo-red-152.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/images/ico/genesys-logo-red-144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/images/ico/genesys-logo-red-120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/images/ico/genesys-logo-red-114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/images/ico/genesys-logo-red-76.png">
+    <link rel="apple-touch-icon-precomposed" href="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/images/ico/genesys-logo-red-57.png">  
+    <link rel="shortcut icon" href="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/images/ico/genesys-logo-red.ico">
+
+    <meta name="csrf" content="UF-P2uX0DEUfn_1A0nV5u58AvoT88Xfz1C8-7jr3ICU">
+    <meta name="requestId" content="bhnAL6etVdXqx4g7KQ-4zEeC56GkidjkLLQ0utTjGMA">
+    <meta name="disableMultiOrgResponse" content="false">
+
+    
+<meta name="web-auth-service/config/environment" content="%7B%22modulePrefix%22%3A%22web-auth-service%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22/%22%2C%22locationType%22%3A%22hash%22%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%7D%2C%22APP%22%3A%7B%22name%22%3A%22web-auth-service%22%2C%22version%22%3A%222.59.0+fc064f4b%22%7D%2C%22bootstrap%22%3A%7B%22attemptCountKey%22%3A%22pcAuth-reloadAttempts%22%2C%22maxAttempts%22%3A3%7D%2C%22localeCookie%22%3A%7B%22name%22%3A%22pcAuth-userPrefLangTag%22%2C%22legacyName%22%3A%22pcAuth-userPrefLocale%22%2C%22expirationDays%22%3A90%7D%2C%22lockOutMinutes%22%3A5%2C%22autoDirect%22%3A%7B%22on%22%3Afalse%2C%22url%22%3Anull%2C%22protocol%22%3A%22https%22%2C%22hostPrefix%22%3A%22apps%22%2C%22pathname%22%3A%22/architect/%22%7D%2C%22restoreOrgNameCookie%22%3A%22pcAuth-prevOrgName%22%2C%22restoreOrgNameCookieExpirationDays%22%3A90%2C%22helpSystem%22%3A%7B%22linkBase%22%3A%22http%3A//help.mypurecloud.com%22%2C%22i18nLinkBase%22%3A%22http%3A//help.mypurecloud.com/redirect%22%7D%2C%22apps%22%3A%7B%22baseUrl%22%3Anull%2C%22baseProtocol%22%3A%22https%22%2C%22baseHostPrefix%22%3A%22apps%22%2C%22pathnames%22%3A%7B%22collaborate%22%3A%22/directory%22%2C%22communicate%22%3A%22/directory/%23/search%22%2C%22engage%22%3A%22/contact-center%22%2C%22architect%22%3A%22/architect%22%2C%22admin%22%3A%22/admin%22%2C%22collaborateBundle%22%3A%22/directory%22%7D%7D%2C%22ember-component-css%22%3A%7B%22terseClassNames%22%3Atrue%7D%2C%22exportApplicationGlobal%22%3Afalse%7D" />
+    <script src="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/intl/intl.min-0e068edf2c2cef7e13591a83bd20b0ff.js"></script>
+    <script src="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/intl/locales/en-us-53a57a0108f1a2a0e22a152ef11fc1e6.js"></script>
+    <link integrity="" rel="stylesheet" href="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/vendor-d41d8cd98f00b204e9800998ecf8427e.css">
+    <link integrity="" rel="stylesheet" href="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/web-auth-service-bf6fe819ee457cf5c6440ae55be81221.css">
+
+    
+  </head>
+  <body>
+    
+
+    <script src="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/vendor-8ba4c716382c8d410dde34e93ed2bd52.js"></script>
+    <script src="https://dhqbrvplips7x.cloudfront.net/auth-service/2.59.0-21/assets/web-auth-service-2b2cecc3b0719bf2ebc7fda9cb93c943.js"></script>
+
+    
+  </body>
+</html>

@@ -1,0 +1,17 @@
+/home/fredy/Projects/revtec/WebAPIClient/bin/Debug/net7.0/WebAPIClient
+/home/fredy/Projects/revtec/WebAPIClient/bin/Debug/net7.0/WebAPIClient.deps.json
+/home/fredy/Projects/revtec/WebAPIClient/bin/Debug/net7.0/WebAPIClient.runtimeconfig.json
+/home/fredy/Projects/revtec/WebAPIClient/bin/Debug/net7.0/WebAPIClient.dll
+/home/fredy/Projects/revtec/WebAPIClient/bin/Debug/net7.0/WebAPIClient.pdb
+/home/fredy/Projects/revtec/WebAPIClient/obj/Debug/net7.0/WebAPIClient.csproj.AssemblyReference.cache
+/home/fredy/Projects/revtec/WebAPIClient/obj/Debug/net7.0/WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/fredy/Projects/revtec/WebAPIClient/obj/Debug/net7.0/WebAPIClient.AssemblyInfoInputs.cache
+/home/fredy/Projects/revtec/WebAPIClient/obj/Debug/net7.0/WebAPIClient.AssemblyInfo.cs
+/home/fredy/Projects/revtec/WebAPIClient/obj/Debug/net7.0/WebAPIClient.csproj.CoreCompileInputs.cache
+/home/fredy/Projects/revtec/WebAPIClient/obj/Debug/net7.0/WebAPIClient.dll
+/home/fredy/Projects/revtec/WebAPIClient/obj/Debug/net7.0/refint/WebAPIClient.dll
+/home/fredy/Projects/revtec/WebAPIClient/obj/Debug/net7.0/WebAPIClient.pdb
+/home/fredy/Projects/revtec/WebAPIClient/obj/Debug/net7.0/WebAPIClient.genruntimeconfig.cache
+/home/fredy/Projects/revtec/WebAPIClient/obj/Debug/net7.0/ref/WebAPIClient.dll
+/home/fredy/Projects/revtec/WebAPIClient/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/fredy/Projects/revtec/WebAPIClient/obj/Debug/net7.0/WebAPIClient.csproj.CopyComplete
